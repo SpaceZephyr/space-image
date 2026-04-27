@@ -1,0 +1,4 @@
+.labnana.env
+.env
+*.key
+.DS_Store
