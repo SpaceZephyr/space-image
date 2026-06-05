@@ -25,7 +25,7 @@
 git clone https://github.com/zephyrwang6/space-GPT-image2-design.git ~/.claude/skills/space-GPT-image2-design
 ```
 
-[看效果](#样图--9-张全部用-skill-自己跑出来) · [装上就能用](#装上就能用) · [4 个 Skill](#4-个-skill) · [核心机制](#核心机制) · [License](#license)
+[看效果](#样图--9-张全部用-skill-自己跑出来) · [装上就能用](#装上就能用) · [5 个 Skill](#5-个-skill) · [核心机制](#核心机制) · [License](#license)
 
 </div>
 
@@ -47,7 +47,7 @@ git clone https://github.com/zephyrwang6/space-GPT-image2-design.git ~/.claude/s
 
 ---
 
-## 4 个 Skill
+## 5 个 Skill
 
 每个 Skill 文件夹独立，可以按需挑选 / 全装上。底层都通过 OpenAI Codex / 官方 GPT-image-2 API 出图。
 
@@ -55,6 +55,7 @@ git clone https://github.com/zephyrwang6/space-GPT-image2-design.git ~/.claude/s
 |-------|--------|------|----------|
 | **[space-image-studio](./space-image-studio)** | 全能图片工作室：4 类型 × 12 风格的总控 | 单张高质量 PNG | 2–8 min |
 | **[space-article-batch-illustration](./space-article-batch-illustration)** | 文章自动配图：分析段落 → 批量生图 → 自动插入 | 多张 PNG + 修改后的 md | 5–15 min |
+| **[space-article-cover-and-batch-illustration](./space-article-cover-and-batch-illustration)** | 公众号封面 + 文章配图：封面单张，配图多张，默认走 Codex 内置 image2 | 1 张封面或多张配图 | 3–15 min |
 | **[space-chart-image](./space-chart-image)** | 10 类结构化图表（流程 / 架构 / SWOT / 路线图…） | 单张 PNG | 2–5 min |
 | **[space-baoyu-slide-deck](./space-baoyu-slide-deck)** | 内容到整套幻灯（含大纲）+ PPTX/PDF 导出 | 多张 PNG + PPTX + PDF | 15–30 min |
 
@@ -172,6 +173,7 @@ space-GPT-image2-design/
 │       ├── styles/       (12 风格定义)
 │       └── prompt-templates/base.md       # 提示词组装模板
 ├── space-article-batch-illustration/      # 文章批量配图
+├── space-article-cover-and-batch-illustration/ # 公众号封面 + 批量配图（Codex 内置 image2）
 ├── space-chart-image/                     # 10 类结构化图表
 └── space-baoyu-slide-deck/                # 整套幻灯片生成
 ```
