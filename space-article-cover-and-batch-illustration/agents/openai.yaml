@@ -1,4 +1,0 @@
-interface:
-  display_name: "文章封面与批量配图"
-  short_description: "Generate WeChat article covers and batch AI illustrations"
-  default_prompt: "使用 $article-cover-and-batch-illustration 为这篇文章制作封面图或批量生成配图"

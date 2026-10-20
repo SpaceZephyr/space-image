@@ -1,0 +1,8 @@
+interface:
+  display_name: "space-image"
+  short_description: "将内容关系提炼为九种高辨识度、非模板化的概念海报与封面"
+  brand_color: "#2046F3"
+  default_prompt: "使用 $space-image 把这段内容提炼成一张有中心隐喻和空间层次的 2.35:1 概念封面。"
+
+policy:
+  allow_implicit_invocation: true
