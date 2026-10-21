@@ -110,7 +110,7 @@ punk-assets/space-image/YYYYMMDD-topic/
 
 ## 参考资产
 
-九套样张只用于学习视觉语法，不要求逐像素复刻：
+九张 AI 生成样张只用于学习视觉语法，不要求逐像素复刻；不要将用户上传的原始参考图当作 Skill 生成效果展示。
 
 - `assets/premium-black-chrome.png`
 - `assets/minimal-mascot.png`
@@ -118,10 +118,8 @@ punk-assets/space-image/YYYYMMDD-topic/
 - `assets/lifestyle-handdrawn.png`
 - `assets/monochrome-print-workshop.png`
 - `assets/fluorescent-black.png`
-- `assets/cobalt-riso-narrative-wide.png`
-- `assets/cobalt-riso-narrative-tall.png`
-- `assets/acid-xerox-collage-hand.png`
-- `assets/acid-xerox-collage-crt.png`
+- `assets/cobalt-riso-narrative.png`
+- `assets/acid-xerox-collage.png`
 - `assets/spot-color-engraved-portrait.png`
 
 如果用户新提供的参考图与这些样张冲突，以用户本轮参考图为准。

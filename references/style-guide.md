@@ -177,8 +177,7 @@
 
 参考：
 
-- 横版留白与水平叙事：`../assets/cobalt-riso-narrative-wide.png`
-- 颗粒、套色与多层空间：`../assets/cobalt-riso-narrative-tall.png`
+- 信息河流与图书馆的生成示例：`../assets/cobalt-riso-narrative.png`
 
 ## 8. `acid-xerox-collage`｜酸性影印科技拼贴
 
@@ -209,8 +208,7 @@
 
 参考：
 
-- 机械动作、文件与酸性色纸：`../assets/acid-xerox-collage-hand.png`
-- 复古设备、留白与稀疏文字：`../assets/acid-xerox-collage-crt.png`
+- 代码放映机的生成示例：`../assets/acid-xerox-collage.png`
 
 ## 9. `spot-color-engraved-portrait`｜专色蚀刻人物肖像
 
