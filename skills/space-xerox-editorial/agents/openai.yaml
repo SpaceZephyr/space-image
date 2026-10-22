@@ -1,0 +1,7 @@
+interface:
+  display_name: "黑蓝粉影印封面"
+  short_description: "用影印拼贴字、黑蓝粉专色与具体场景制作简约中文编辑型封面"
+  default_prompt: "使用 $space-xerox-editorial 把这篇文章做成黑蓝粉影印封面，字效融入画面，场景简约且能一眼看懂。"
+
+policy:
+  allow_implicit_invocation: true

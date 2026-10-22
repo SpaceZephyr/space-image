@@ -47,6 +47,10 @@ description: 将文章、产品概念或活动文案提炼成具有视觉隐喻�
 
 生成前按需读取 [references/style-guide.md](references/style-guide.md)。只在需要对应风格时查看该风格的参考样张，不必一次加载全部资产。
 
+#### 独立子 Skill：黑蓝粉影印编辑封面
+
+用户提到“会议机器人那版”“黑蓝粉影印”“字效融入背景”，或需要更明确的编辑型场景拼贴时，读取 [space-xerox-editorial](skills/space-xerox-editorial/SKILL.md)。它细化 `acid-xerox-collage` 的字体、专色与角色规则，保留简约、能识别的具体场景；不要求每个主题都出现会议或机器人。
+
 ### 3. 写视觉简报
 
 在内部先形成一份简短视觉简报：
